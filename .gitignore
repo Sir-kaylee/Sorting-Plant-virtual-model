@@ -1,0 +1,21 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# VS/IDE files
+.vs/
+.vscode/
+.idea/
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Packages cache
+/Packages/*/~
